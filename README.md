@@ -1,91 +1,124 @@
-<h1 align="center">Hi, I'm Jackson Kimotho Wanjira 👋</h1>
+<!-- HERO BANNER -->
 
 <p align="center">
-  <b>Data Science Student • Data Analyst • AI Automation Builder</b><br/>
-  Turning raw data into practical, implementable solutions that create real-world impact.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00C4CC&height=250&section=header&text=JACKSON%20KIMOTHO%20WANJIRA&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
+<!-- TYPING INTRO -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=2800&pause=800&color=00C4CC&center=true&vCenter=true&width=800&lines=Data+Scientist+%7C+AI+Engineer+in+Training;Building+Real-World+AI+and+Data+Systems;From+Raw+Data+to+Actionable+Impact;Python+%7C+Machine+Learning+%7C+Automation" />
+</p>
+
+<!-- BADGES ROW -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jack-ki1&label=Profile%20Views&color=00C4CC&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/Jack-ki1?style=for-the-badge&color=0077B5" />
+  <img src="https://img.shields.io/github/stars/Jack-ki1?style=for-the-badge&color=00C4CC" />
+</p>
+
+---
+
+## 🧭 Positioning
+
+I design and build **data-driven and AI-powered systems** that are not just technically correct but **deployable, scalable, and useful**.
+
+* 🎓 BSc. Data Science — KCA University (Kenya)
+* ⚙️ Focus: **AI Engineering, Data Systems, Automation**
+* 🎯 Goal: Build systems that **convert data → decisions → measurable outcomes**
+
+---
+
+## ⚡ What I’m Building
+
+* 🤖 **AI Automation Systems** (LLMs, APIs, workflows)
+* 📊 **Analytics & Decision Systems** (dashboards + insights)
+* 🧠 **Machine Learning Models** (prediction + optimization)
+* 🔁 **End-to-End Data Pipelines**
+
+---
+
+## 🧱 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,git,github" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black"/>
+</p>
+
+---
+
+## 🏆 Featured Projects
+
+### 🔷 FINESE 1
+**Problem:** Manual data analysis
+**Solution:** FINESE 1 a platform that transforms raw datasets into actionable insights without writing code
+**Stack:** Python, streamlit
+🔗 [View Project](https://github.com/Jack-ki1/FINESE_1)
+
+---
+
+### 🔷 Turkey Data Analysis Dashboard
+
+**Problem:** Raw data with no clear decisions
+**Solution:** Interactive dashboard with actionable insights
+**Stack:** Excel
+🔗 [View Project](https://github.com/Jack-ki1/Turkey-Data-Analysis-Dashboard)
+
+---
+
+
+## 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jack-ki1&show_icons=true&theme=transparent&hide_border=true&title_color=00C4CC&icon_color=00C4CC" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=Jack-ki1&theme=transparent&hide_border=true&ring=00C4CC&fire=0077B5" height="160"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jack-ki1&theme=github-compact&hide_border=true&color=00C4CC&line=0077B5&point=00C4CC" />
+</p>
+
+---
+
+## 🧩 Contribution Heatmap (3D)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jack-ki1&theme=github_dark" />
+</p>
+
+---
+
+## 🌐 Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jackson-kimotho1/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:kimothojackson1125@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### About Me
-
-I am a Bachelor of Science in Data Science student at **KCA University, Kenya** with a growing focus on **data analysis, AI engineering, and intelligent automation**.
-
-My work sits at the intersection of **data, business thinking, and applied AI**.  
-I enjoy building solutions that are not only technically sound, but also useful, scalable, and easy to apply.
-
----
-
-### What I’m Working On
-
-- AI automations and workflow optimization
-- Data science projects with practical business value
-- Learning AI engineering and advanced AI applications in data science
-
----
-
-### What I Bring
-
-- Strong foundation in **Python, data analysis, and machine learning**
-- Interest in **transforming messy data into clear decisions**
-- Ability to combine **technical execution + visual communication**
-- A growing mindset around **AI-powered problem solving**
-
----
-
-### Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<p align="center">
+  <b>“Data is only valuable when it drives action.”</b>
 </p>
 
----
-
-### Featured Interests
-
-- Data analysis and dashboard storytelling
-- Machine learning and predictive modeling
-- AI automation for productivity and business workflows
-- Open-source collaboration and problem solving
-
----
-
-### GitHub Stats
+<!-- FOOTER -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jack-ki1&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ki1&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-
----
-
-### Let’s Connect
-
-<p align="center">
-  I’m always open to collaborating on data-driven, AI, and automation projects.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jackson-kimotho1/">LinkedIn</a> •
-  <a href="mailto:kimothojackson1125@gmail.com">Email</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4CC,100:0f2027&height=120&section=footer"/>
 </p>

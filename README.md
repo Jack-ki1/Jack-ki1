@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" width="100%" alt="Jackson Kimotho — Data Scientist × AI Engineer × Full-Stack Builder" />
+  <img src="banner.png" width="100%" alt="Jackson Kimotho — Data Scientist × AI Engineer × Full-Stack Builder" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@ This README is written the way I'd open a client report: don't tell me what you 
 ## 01 · The portfolio, by the numbers
 
 <p align="center">
-  <img src="assets/domain_donut.png" width="72%" alt="Donut chart: 29 public repositories by domain — Data/Fintech 8, Learning/Tools 9, Agentic AI 6, Predictive Analytics 5, Computer Vision 1"/>
+  <img src="domain_donut.png" width="72%" alt="Donut chart: 29 public repositories by domain — Data/Fintech 8, Learning/Tools 9, Agentic AI 6, Predictive Analytics 5, Computer Vision 1"/>
 </p>
 
 <sub>Counted straight off <a href="https://github.com/Jack-ki1">github.com/Jack-ki1</a> — no rounding, no cherry-picking. Private and client-owned builds (four of my more involved systems) sit outside this count and are documented separately below.</sub>
@@ -154,5 +154,5 @@ This README is written the way I'd open a client report: don't tell me what you 
 <br/>
 
 <p align="center">
-  <img src="assets/footer.png" width="100%" alt="Data is only valuable when it drives action."/>
+  <img src="footer.png" width="100%" alt="Data is only valuable when it drives action."/>
 </p>

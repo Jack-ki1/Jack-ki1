@@ -43,6 +43,18 @@ I prefer projects that demonstrate a complete line from problem to working syste
 
 More experiments, learning projects and source code live in the [full public repository collection](https://github.com/Jack-ki1?tab=repositories).
 
+
+## Selected product screens
+
+A few real captures from running applications—not generic stock artwork. Open the project repositories for more screens and implementation detail.
+
+<div align="center">
+  <a href="https://github.com/Jack-ki1/MEVEST"><img src="https://raw.githubusercontent.com/Jack-ki1/MEVEST/main/images/dashboard.png" alt="MEVEST investment dashboard screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/MEVEST"><img src="https://raw.githubusercontent.com/Jack-ki1/MEVEST/main/images/analytics.png" alt="MEVEST portfolio analytics screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/AI-Customer-Inbox-Agent"><img src="https://raw.githubusercontent.com/Jack-ki1/AI-Customer-Inbox-Agent/main/docs/screenshots/00-hero.png" alt="AI Customer Inbox Agent application screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/AI-Customer-Inbox-Agent"><img src="https://raw.githubusercontent.com/Jack-ki1/AI-Customer-Inbox-Agent/main/docs/screenshots/02-conversation-lead.png" alt="AI Customer Inbox Agent conversation and lead capture screenshot" width="48%"/></a>
+</div>
+
 ## How I approach engineering
 
 I don't start with the most complicated model or the newest framework. I start by understanding what needs to change, what evidence is available and how success will be evaluated.

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="540" viewBox="0 0 1500 540" role="img" aria-labelledby="title desc">
+<title id="title">Capability map — connected disciplines</title><desc id="desc">Five connected disciplines support practical real-world software products.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#08172c"/><stop offset="1" stop-color="#151b3a"/></linearGradient><linearGradient id="hub" x2="1"><stop stop-color="#0e7490"/><stop offset=".5" stop-color="#4f46e5"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<rect width="1500" height="540" rx="26" fill="url(#bg)"/>
+<text x="62" y="70" fill="#93c5fd" font-family="Arial" font-size="17" font-weight="700" letter-spacing="4">CONNECTED CAPABILITIES</text>
+<text x="62" y="116" fill="#f8fafc" font-family="Arial" font-size="32" font-weight="700">Different disciplines. One goal: useful systems.</text>
+<g stroke="#64748b" stroke-opacity=".55" stroke-width="3" fill="none">
+ <path d="M750 285 L300 215"/><path d="M750 285 L1200 215"/><path d="M750 285 L375 410"/><path d="M750 285 L1125 410"/><path d="M750 285 L750 440"/>
+</g>
+<g font-family="Arial" text-anchor="middle">
+ <rect x="520" y="205" width="460" height="155" rx="28" fill="url(#hub)" stroke="#a5b4fc" stroke-width="2"/>
+ <text x="750" y="265" fill="#fff" font-size="17" font-weight="700" letter-spacing="3">THE OUTCOME</text><text x="750" y="306" fill="#fff" font-size="30" font-weight="800">Real-world impact</text><text x="750" y="337" fill="#e0e7ff" font-size="16">Useful · measurable · maintainable</text>
+ <g><rect x="105" y="155" width="390" height="112" rx="20" fill="#102c49" stroke="#22d3ee" stroke-width="2"/><text x="300" y="198" fill="#67e8f9" font-size="22" font-weight="700">Data science &amp; analytics</text><text x="300" y="231" fill="#cbd5e1" font-size="16">Understand patterns and decisions</text></g>
+ <g><rect x="1005" y="155" width="390" height="112" rx="20" fill="#202047" stroke="#a78bfa" stroke-width="2"/><text x="1200" y="198" fill="#c4b5fd" font-size="22" font-weight="700">Machine learning</text><text x="1200" y="231" fill="#cbd5e1" font-size="16">Forecast, classify and recommend</text></g>
+ <g><rect x="145" y="365" width="460" height="112" rx="20" fill="#123047" stroke="#38bdf8" stroke-width="2"/><text x="375" y="408" fill="#7dd3fc" font-size="22" font-weight="700">Applied AI &amp; automation</text><text x="375" y="441" fill="#cbd5e1" font-size="16">Build assistants and intelligent workflows</text></g>
+ <g><rect x="895" y="365" width="460" height="112" rx="20" fill="#123528" stroke="#4ade80" stroke-width="2"/><text x="1125" y="408" fill="#86efac" font-size="22" font-weight="700">Software engineering</text><text x="1125" y="441" fill="#cbd5e1" font-size="16">Turn ideas into dependable applications</text></g>
+ <g><rect x="560" y="405" width="380" height="105" rx="20" fill="#382b1a" stroke="#fbbf24" stroke-width="2"/><text x="750" y="447" fill="#fcd34d" font-size="22" font-weight="700">Computer vision</text><text x="750" y="478" fill="#cbd5e1" font-size="16">Extract signals from images and video</text></g>
+</g>
+</svg>

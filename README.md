@@ -1,125 +1,87 @@
 <div align="center">
 
-<img src="banner.png" alt="Jackson Kimotho — Data, AI and Software Engineering" width="100%" />
+<img src="assets/profile-banner.svg" alt="Jackson Kimotho — Data Science, Applied AI and Software Engineering" width="100%" />
 
-# Jackson Kimotho
+<p>
+  <a href="https://www.linkedin.com/in/jackson-kimotho1/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:kimothojackson1125@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Jack-ki1?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-20232A?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+</p>
 
-### Data Scientist · AI/ML Engineer · Software Developer
-
-**I turn data, machine learning and software into systems people can actually use.**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jackson-kimotho1/)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimothojackson1125@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jack-ki1)
+**I turn data, models and code into useful real-world systems.**
 
 </div>
 
 ---
 
-## About
+## Hello, I'm Jackson
 
-I’m a Nairobi-based data and software practitioner with a background in **Data Science at KCA University**. My work sits at the intersection of data analysis, applied machine learning, AI engineering and full-stack development.
+I'm a data science and software practitioner based in Nairobi, Kenya, with a background in **Data Science at KCA University**. I work across **data analysis, applied machine learning, AI engineering and full-stack development**—usually where those disciplines meet a practical problem.
 
-I enjoy taking a problem from its messy first version to a working product: understanding the data, choosing a sensible approach, building the backend and interface, and being honest about what the system can—and cannot—do.
+I enjoy the full build cycle: understanding the problem, exploring the data, testing a sensible baseline, building the model or workflow, and bringing it into an application people can use. I care about useful outcomes, clear evaluation and systems that are honest about their limitations.
 
-My interests include:
-
-- **Data science & analytics** — data preparation, exploratory analysis, statistical thinking, visualization and decision support.
-- **Machine learning** — predictive modelling, evaluation, forecasting and practical model deployment.
-- **Applied AI** — LLM-powered workflows, AI assistants, model integrations and automation.
-- **Computer vision** — detection, tracking and extracting useful signals from images and video.
-- **Software engineering** — APIs, databases and usable web applications that bring the intelligence into production.
-
-I’m particularly interested in building useful technology for real-world problems in Africa and beyond.
+<div align="center">
+  <img src="assets/capability-map.svg" alt="Connected capabilities across data science, machine learning, applied AI, computer vision and software engineering" width="100%"/>
+</div>
 
 ## Selected work
 
-A selection of public projects that show the problems I enjoy working on. Each project links to its own repository for implementation details, setup instructions and current limitations.
+I prefer projects that demonstrate a complete line from problem to working system. The graphic below is an illustrated overview; each project title links to its source repository for the implementation, setup and current scope.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
+  <img src="assets/project-showcase.svg" alt="Six selected projects: ParkWise AI, DASHBOARD AI, SPORTZ AI, MEVEST, Oil Session Radar and AI Customer Inbox Agent" width="100%"/>
+</div>
 
-### [ParkWise AI](https://github.com/Jack-ki1/PARK_WISE_AI)
+| Project | What it explores | Main technologies |
+|---|---|---|
+| **[ParkWise AI](https://github.com/Jack-ki1/PARK_WISE_AI)** | Video-based vehicle detection and tracking, configurable parking-bay occupancy, and a dashboard backed by measured processing results. | Python, FastAPI, OpenCV, YOLO, Next.js |
+| **[DASHBOARD AI](https://github.com/Jack-ki1/DASHBOARD_AI_01)** | AI-assisted dashboard creation from prompts, data or templates, with a visual editing studio and shareable dashboards. | React, TypeScript, Node.js, Express, SQLite |
+| **[SPORTZ AI](https://github.com/Jack-ki1/SPORTZ_AI)** | Multi-sport data exploration and experimental forecasting with configurable statistical and AI-driven approaches. | JavaScript, Node.js, statistics, ML |
+| **[MEVEST](https://github.com/Jack-ki1/MEVEST)** | An AI-native investment research and wealth-management experience with African-market context, portfolio analytics and cited AI insights. | React, TypeScript, Tailwind, Recharts, Supabase |
+| **[Oil Session Radar](https://github.com/Jack-ki1/OIL-INSTITUTIONAL-DESK)** | Session-aware oil-market monitoring, volume anomaly analysis, news context and alert workflows; simulated order-flow elements are labelled as simulated. | Python, Flask, Pandas, SQLite |
+| **[AI Customer Inbox Agent](https://github.com/Jack-ki1/AI-Customer-Inbox-Agent)** | A document-grounded support agent that retrieves from business knowledge, drafts replies, captures leads and supports configurable LLM and WhatsApp providers. | Python, FastAPI, TF-IDF, LLM APIs |
 
-**Computer vision · Smart mobility**
+More experiments, learning projects and source code live in the [full public repository collection](https://github.com/Jack-ki1?tab=repositories).
 
-A video-driven parking intelligence system. It processes parking footage, detects and tracks vehicles, evaluates configured parking bays and presents measured results in a web dashboard.
 
-Python · FastAPI · YOLO · OpenCV · Next.js
+## Selected product screens
 
-</td>
-<td width="50%" valign="top">
+A few real captures from running applications—not generic stock artwork. Open the project repositories for more screens and implementation detail.
 
-### [DASHBOARD AI](https://github.com/Jack-ki1/DASHBOARD_AI_01)
+<div align="center">
+  <a href="https://github.com/Jack-ki1/MEVEST"><img src="https://raw.githubusercontent.com/Jack-ki1/MEVEST/main/images/dashboard.png" alt="MEVEST investment dashboard screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/MEVEST"><img src="https://raw.githubusercontent.com/Jack-ki1/MEVEST/main/images/analytics.png" alt="MEVEST portfolio analytics screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/AI-Customer-Inbox-Agent"><img src="https://raw.githubusercontent.com/Jack-ki1/AI-Customer-Inbox-Agent/main/docs/screenshots/00-hero.png" alt="AI Customer Inbox Agent application screenshot" width="48%"/></a>
+  <a href="https://github.com/Jack-ki1/AI-Customer-Inbox-Agent"><img src="https://raw.githubusercontent.com/Jack-ki1/AI-Customer-Inbox-Agent/main/docs/screenshots/02-conversation-lead.png" alt="AI Customer Inbox Agent conversation and lead capture screenshot" width="48%"/></a>
+</div>
 
-**AI product · Data visualization**
+## How I approach engineering
 
-An AI-assisted dashboard builder. Users can start with a prompt, dataset or template, then refine dashboards in a visual studio and publish shareable views.
+I don't start with the most complicated model or the newest framework. I start by understanding what needs to change, what evidence is available and how success will be evaluated.
 
-React · TypeScript · Node.js · Express · SQLite
+<div align="center">
+  <img src="assets/engineering-loop.svg" alt="Engineering workflow: frame the problem, explore data, establish a baseline, build, validate, and improve through feedback" width="100%"/>
+</div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+A few principles guide that process:
 
-### [Breakout Radar](https://github.com/Jack-ki1/ARTIST_BREAK_APP)
+- **Problem before technology.** Define the user, decision, constraints and expected outcome before choosing a stack.
+- **Evidence before complexity.** Establish a baseline and use evaluation to justify more sophisticated methods.
+- **End-to-end thinking.** A useful model needs reliable data, an API or workflow, a clear interface and sensible operations.
+- **Transparency by design.** Distinguish live data from examples, model estimates from facts, and implemented features from roadmap ideas.
+- **Iteration over theatre.** Test, learn from real use and improve the parts that matter.
 
-**Data products · Music intelligence**
+## Learning & building journey
 
-A local-first artist discovery and identity-review workspace that searches supported music catalogs, normalizes provider records and routes new candidates through a human review queue.
+My development has been an ongoing progression from programming and statistical foundations into applied data work, machine learning, AI workflows and complete software products. The path below represents the areas I continue to build on—not a dated claim about when each skill was mastered.
 
-Python · FastAPI · React · Vite · SQLite
+<div align="center">
+  <img src="assets/learning-journey.svg" alt="Learning journey from programming and statistics through data practice, machine learning and AI, product engineering and continuous growth" width="100%"/>
+</div>
 
-</td>
-<td width="50%" valign="top">
+## Technology toolkit
 
-### [SPORTZ AI](https://github.com/Jack-ki1/SPORTZ_AI)
-
-**Sports analytics · Predictive modelling**
-
-An experimental multi-sport analytics platform combining statistical and machine-learning forecasts with live sports data exploration and configurable AI-provider integrations.
-
-JavaScript · Node.js · Machine Learning · Statistics
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Oil Session Radar](https://github.com/Jack-ki1/OIL-INSTITUTIONAL-DESK)
-
-**Data engineering · Market analytics**
-
-A Flask-based oil-market monitoring dashboard exploring session-aware volume anomalies, order-flow signals, news context and alerting. Simulated signals are explicitly distinguished from live data.
-
-Python · Flask · Pandas · SQLite
-
-</td>
-<td width="50%" valign="top">
-
-### [AI Customer Inbox Agent](https://github.com/Jack-ki1/AI-Customer-Inbox-Agent)
-
-**Applied AI · Workflow automation**
-
-An AI-assisted workflow for handling customer inbox activity, exploring how language models can support practical business operations.
-
-Python · LLMs · Automation
-
-</td>
-</tr>
-</table>
-
-### More repositories
-
-I also work on data analysis, machine learning, financial technology, sports prediction, education tools and developer utilities.
-
-[Browse all public repositories →](https://github.com/Jack-ki1?tab=repositories)
-
-## Tools & technologies
-
-The tools below reflect areas I work with across projects; the exact stack varies by problem.
+Tools I have used across coursework, experiments and product builds. The right tool depends on the problem; this is not a claim that every technology appears in every project.
 
 **Languages & data**
 
@@ -130,7 +92,7 @@ The tools below reflect areas I work with across projects; the exact stack varie
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-**Machine learning & AI**
+**Machine learning & applied AI**
 
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -149,17 +111,26 @@ The tools below reflect areas I work with across projects; the exact stack varie
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## How I approach building
+## GitHub activity
 
-1. **Understand the problem.** Identify the user, the decision to improve and the data that is actually available.
-2. **Choose the right method.** Use a clear baseline before reaching for a complex model or an LLM.
-3. **Build the complete workflow.** Connect data, model, API and interface into something usable.
-4. **Evaluate honestly.** Test assumptions, measure performance and make limitations visible.
-5. **Improve from evidence.** Iterate based on results and feedback rather than adding complexity for its own sake.
+These cards use GitHub-backed public contribution and language data. They are dynamic third-party visualizations and may take a moment to refresh.
 
-## Let’s connect
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jack-ki1&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub contribution statistics"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ki1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1" alt="Most used public repository languages"/>
+</div>
 
-I’m open to conversations around data science, AI/ML engineering, software development, collaborations and opportunities to build useful products.
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jack-ki1&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+</div>
+
+## What I'm exploring
+
+I'm particularly interested in practical AI products, trustworthy data systems, computer vision, predictive analytics and tools that make complex information easier to act on. I also enjoy exploring how these technologies can solve problems in African markets and operating environments.
+
+## Let's connect
+
+Open to thoughtful conversations, technical collaboration and opportunities in **data science, AI/ML engineering and software development**.
 
 - **LinkedIn:** [Jackson Kimotho](https://www.linkedin.com/in/jackson-kimotho1/)
 - **Email:** [kimothojackson1125@gmail.com](mailto:kimothojackson1125@gmail.com)
@@ -167,6 +138,6 @@ I’m open to conversations around data science, AI/ML engineering, software dev
 
 <div align="center">
 
-*Build with purpose. Measure what matters. Keep learning.*
+### Build with purpose. Measure what matters. Keep learning.
 
 </div>

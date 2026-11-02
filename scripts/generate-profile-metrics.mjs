@@ -69,7 +69,7 @@ async function getPublicCalendar() {
   const query =
     "query ProfileContributions($login: String!, $from: DateTime!, $to: DateTime!) {" +
     " user(login: $login) {" +
-    " contributionsCollection(from: $from, to: $to, includePrivateContributions: false) {" +
+    " contributionsCollection(from: $from, to: $to) {" +
     " contributionCalendar { totalContributions weeks { contributionDays { date contributionCount weekday } } }" +
     " } } }";
 

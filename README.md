@@ -127,7 +127,7 @@ These charts are generated from GitHub's own API and stored in this repository. 
   <img src="assets/github-activity.svg" alt="Daily public GitHub contribution activity over the last 365 days" width="100%"/>
 </div>
 
-<sub>Scope: public profile data, original public repositories and public contributions only. Language shares are calculated from GitHub's language byte counts. Metrics refresh automatically each day; use the repository's Actions tab to run the workflow manually.</sub>
+<sub>Scope: public profile data and original public repositories. The contribution chart uses the contribution calendar visible to the workflow token; the language breakdown is calculated from GitHub language byte counts. Metrics refresh automatically each day; use the repository's Actions tab to run the workflow manually.</sub>
 
 ## What I'm exploring
 

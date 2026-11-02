@@ -113,16 +113,21 @@ Tools I have used across coursework, experiments and product builds. The right t
 
 ## GitHub activity
 
-These cards use GitHub-backed public contribution and language data. They are dynamic third-party visualizations and may take a moment to refresh.
+These charts are generated from GitHub's own API and stored in this repository. GitHub Actions refreshes them daily, so the README does not depend on third-party chart-rendering services.
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jack-ki1&show_icons=true&include_all_commits=true&count_private=false&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1&icon_color=A78BFA" alt="GitHub contribution statistics"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jack-ki1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=CBD5E1" alt="Most used public repository languages"/>
+  <img src="assets/github-stats.svg" alt="Public GitHub profile statistics: repositories, stars, followers and public contributions" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jack-ki1&bg_color=0B1220&color=CBD5E1&line=22D3EE&point=A78BFA&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%"/>
+  <img src="assets/github-languages.svg" alt="Top programming languages by byte count across original public repositories" width="100%"/>
 </div>
+
+<div align="center">
+  <img src="assets/github-activity.svg" alt="Daily public GitHub contribution activity over the last 365 days" width="100%"/>
+</div>
+
+<sub>Scope: public profile data, original public repositories and public contributions only. Language shares are calculated from GitHub's language byte counts. Metrics refresh automatically each day; use the repository's Actions tab to run the workflow manually.</sub>
 
 ## What I'm exploring
 

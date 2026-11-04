@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/profile-banner.svg" alt="Jackson Kimotho — Data Science, Applied AI and Software Engineering" width="100%" />
+<img src="assets/profile-banner.png" alt="Jackson Kimotho — Data Science, Applied AI and Software Engineering" width="100%" />
 
 <p>
   <a href="https://www.linkedin.com/in/jackson-kimotho1/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
